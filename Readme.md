@@ -7,3 +7,7 @@ Build log
 4/8/20
     -Fell asleep at my desk last night before I could push haha
     -Just did a little more exploring of the object returned from my api call
+
+4/18/20
+    -Haven't worked on this in almost 10 days! Damn you school projects!
+    -Started creating the plotly plot for this visualization
