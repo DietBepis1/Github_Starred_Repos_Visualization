@@ -11,3 +11,7 @@ Build log
 4/18/20
     -Haven't worked on this in almost 10 days! Damn you school projects!
     -Started creating the plotly plot for this visualization
+
+4/19/20
+    -Added clickable links to the visualization as well as tooltips with author and description
+    -Finished :)
